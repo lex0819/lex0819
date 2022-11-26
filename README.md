@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lex0819
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning vue
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
