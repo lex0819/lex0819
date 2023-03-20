@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lex0819
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning in geekbrains.ru
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
